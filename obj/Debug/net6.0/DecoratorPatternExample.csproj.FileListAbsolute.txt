@@ -1,0 +1,15 @@
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\net6.0\DecoratorPatternExample.exe
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\net6.0\DecoratorPatternExample.deps.json
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\net6.0\DecoratorPatternExample.runtimeconfig.json
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\net6.0\DecoratorPatternExample.dll
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\net6.0\DecoratorPatternExample.pdb
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.csproj.AssemblyReference.cache
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.AssemblyInfoInputs.cache
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.AssemblyInfo.cs
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.dll
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\refint\DecoratorPatternExample.dll
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.pdb
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\DecoratorPatternExample.genruntimeconfig.cache
+C:\Users\zshakulashvili\source\repos\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\net6.0\ref\DecoratorPatternExample.dll
